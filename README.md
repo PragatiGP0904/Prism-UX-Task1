@@ -36,7 +36,7 @@ I used this Google Form to collect real responses for building my personas and e
 
 ---
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 
 - Figma (for Designing)  
 - Canva (graphic enhancements)  
